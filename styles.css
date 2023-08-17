@@ -10,7 +10,8 @@
 
 /* Add a bit of padding to the top of the body */
 body {
-    padding-top: 80px; /* Creating a comfortable space */
+	 background: #262626;
+     text-decoration: none;
 }
 
 /* Let's give the "Sup bro" link some extra character */
