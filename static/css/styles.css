@@ -1,1 +1,27 @@
+/* Customize the navbar background and text color */
+.navbar {
+    background-color: #4caf50; /* A lively green hue, why not? */
+}
 
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff; /* White text color for a bold look */
+}
+
+/* Add a bit of padding to the top of the body */
+body {
+	 background: #262626;
+     text-decoration: none;
+}
+
+/* Let's give the "Sup bro" link some extra character */
+a {
+    color: #f39c12; /* A sunny orange color */
+    font-size: 24px; /* Larger font size to stand out */
+    text-decoration: none; /* No underlines, we're modern! */
+}
+
+a:hover {
+    color: #e74c3c; /* A passionate red when hovering */
+    text-decoration: underline; /* A subtle underline on hover */
+}
